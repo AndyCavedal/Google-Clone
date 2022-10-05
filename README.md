@@ -1,6 +1,8 @@
-# Trabajo del Curso Practico de HTML y CSS de Platzi 💚
+#Google-Clone
+### Trabajo del Curso Practico de HTML y CSS de Platzi 💚
 
-## El proyecto consta de crear un clon de la pagina de inicio de Google
+#### El proyecto consta en crear un clon de la pagina de inicio de Google.
 
-### Gracias por visitar
+#### *Gracias por visitar*
+
 
